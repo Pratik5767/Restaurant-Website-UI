@@ -44,3 +44,7 @@ npm run dev
 ![r11](https://github.com/Pratik5767/Restaurant-Website-UI/assets/138187006/ed7ea916-ddf5-4a64-8254-c9491653cb17)
 ![r12](https://github.com/Pratik5767/Restaurant-Website-UI/assets/138187006/0f18edcd-f694-4470-ba36-42c334eb16bc)
 ![r13](https://github.com/Pratik5767/Restaurant-Website-UI/assets/138187006/775db745-1d46-42f1-88eb-e01c0dfe9db4)
+
+## Live site here
+
+click here to view: https://pratik5767-restaurant-ui.netlify.app/
